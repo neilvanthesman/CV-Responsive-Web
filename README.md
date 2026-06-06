@@ -10,5 +10,5 @@ Developed using vanilla html css js as part of an individual assessment for Bina
 - Fully Responsive Layout
 - Real time Database integration
   
-[Other Projects](https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing).
+[Screenshots and other projects](https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing).
 
